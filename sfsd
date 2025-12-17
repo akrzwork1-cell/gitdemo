@@ -1,0 +1,72 @@
+[33mcommit 2dcc24757addb9185355ccb415ca08e149cf4b41[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbranch2[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 14146e6 4f44b2e
+Author: akrzwork1-cell <akrzwork1@gmail.com>
+Date:   Wed Dec 17 05:56:16 2025 +0530
+
+    confilct resolve
+
+[33mcommit 4f44b2e6f438397d7e2ff5f4b270b36d0d176635[m[33m ([m[1;32mdemo1[m[33m)[m
+Author: akrzwork1-cell <akrzwork1@gmail.com>
+Date:   Wed Dec 17 05:55:10 2025 +0530
+
+    changed
+
+[33mcommit 14146e67c6673dabe4845f56107fcac3a326147f[m
+Author: akrzwork1-cell <akrzwork1@gmail.com>
+Date:   Wed Dec 17 05:54:26 2025 +0530
+
+    nw
+
+[33mcommit c71b9accbccc5e4d46349e87beff71ce5ec25cf5[m
+Merge: 1138601 d46bceb
+Author: akrzwork1-cell <akrzwork1@gmail.com>
+Date:   Wed Dec 17 05:53:52 2025 +0530
+
+    merged
+
+[33mcommit d46bceb96e01abbedbcad6165da9342980c4e63d[m
+Author: akrzwork1-cell <akrzwork1@gmail.com>
+Date:   Wed Dec 17 05:48:33 2025 +0530
+
+    demo1
+
+[33mcommit 113860179a2eeda853e6362619dd6678875472d6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: akrzwork1-cell <akrzwork1@gmail.com>
+Date:   Wed Dec 17 05:44:50 2025 +0530
+
+    Update pull.html
+
+[33mcommit 0ea5f41cb3444d104ea8f5d1f8ecf0b4b69d76f3[m
+Merge: fda5d24 fdd4a9b
+Author: akrzwork1-cell <akrzwork1@gmail.com>
+Date:   Wed Dec 17 05:41:46 2025 +0530
+
+    Merge pull request #1 from akrzwork1-cell/branch1
+    
+    Update pull.html
+
+[33mcommit fdd4a9b8dd97913f4f6c74e559c1642149b6aea7[m
+Author: akrzwork1-cell <akrzwork1@gmail.com>
+Date:   Wed Dec 17 05:40:07 2025 +0530
+
+    Update pull.html
+    
+    new branch1 created
+
+[33mcommit 683b8a0eb9d057508bbf82ed81d432288a0d58af[m[33m ([m[1;31morigin/demo1[m[33m)[m
+Author: akrzwork1-cell <akrzwork1@gmail.com>
+Date:   Wed Dec 17 05:31:28 2025 +0530
+
+    branch demo1
+
+[33mcommit fda5d247f2aa6f25ca09c2c55aaec97a9729fc41[m
+Author: akrzwork1-cell <akrzwork1@gmail.com>
+Date:   Wed Dec 17 05:22:33 2025 +0530
+
+    Create pull.html
+
+[33mcommit c241c3d17c250aa602b4ca31557846775718349f[m
+Author: akrzwork1-cell <akrzwork1@gmail.com>
+Date:   Wed Dec 17 05:19:22 2025 +0530
+
+    push demo
